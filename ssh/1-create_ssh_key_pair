@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+#generates a new ssh rsa pair
